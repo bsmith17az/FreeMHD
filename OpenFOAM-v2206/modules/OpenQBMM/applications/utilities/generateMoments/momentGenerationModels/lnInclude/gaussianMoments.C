@@ -1,1 +1,0 @@
-../gaussianMoments/gaussianMoments.C

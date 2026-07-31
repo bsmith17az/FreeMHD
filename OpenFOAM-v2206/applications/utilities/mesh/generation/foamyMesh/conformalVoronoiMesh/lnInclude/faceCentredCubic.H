@@ -1,1 +1,0 @@
-../initialPointsMethod/faceCentredCubic/faceCentredCubic.H

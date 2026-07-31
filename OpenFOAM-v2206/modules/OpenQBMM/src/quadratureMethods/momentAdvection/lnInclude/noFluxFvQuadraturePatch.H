@@ -1,1 +1,0 @@
-../velocity/fvQuadraturePatch/noFlux/noFluxFvQuadraturePatch.H

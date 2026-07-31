@@ -1,1 +1,0 @@
-../alphaAndDiameterVelocity/alphaAndDiameterVelocity.C

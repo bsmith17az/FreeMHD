@@ -1,1 +1,0 @@
-../phaseModels/polydispersePhaseModel/coalescenceEfficiencyKernels/Luo/LuoEfficiency.C

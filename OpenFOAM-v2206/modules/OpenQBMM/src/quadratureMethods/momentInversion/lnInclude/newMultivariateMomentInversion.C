@@ -1,1 +1,0 @@
-../multivariate/multivariateMomentInversion/newMultivariateMomentInversion.C

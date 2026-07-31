@@ -1,1 +1,0 @@
-../univariate/extended/gamma/gammaEQMOM.H

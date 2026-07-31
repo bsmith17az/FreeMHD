@@ -1,1 +1,0 @@
-../fieldMomentInversion/newFieldMomentInversion.C

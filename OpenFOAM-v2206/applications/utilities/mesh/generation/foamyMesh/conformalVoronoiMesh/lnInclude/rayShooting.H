@@ -1,1 +1,0 @@
-../initialPointsMethod/rayShooting/rayShooting.H

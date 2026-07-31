@@ -1,1 +1,0 @@
-../initialPointsMethod/autoDensity/autoDensity.H

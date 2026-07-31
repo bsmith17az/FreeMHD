@@ -1,1 +1,0 @@
-../cellSizeControlSurfaces/surfaceCellSizeFunction/cellSizeCalculationType/automatic/automatic.H

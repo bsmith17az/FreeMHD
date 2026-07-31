@@ -1,1 +1,0 @@
-../initialPointsMethod/bodyCentredCubic/bodyCentredCubic.H

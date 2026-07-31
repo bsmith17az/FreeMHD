@@ -1,1 +1,0 @@
-../velocity/fvQuadraturePatch/reflectiveRotatingWall/reflectiveRotatingWallFvQuadraturePatch.H

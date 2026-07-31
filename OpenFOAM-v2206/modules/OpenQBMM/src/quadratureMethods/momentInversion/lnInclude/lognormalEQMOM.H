@@ -1,1 +1,0 @@
-../univariate/extended/lognormal/lognormalEQMOM.H

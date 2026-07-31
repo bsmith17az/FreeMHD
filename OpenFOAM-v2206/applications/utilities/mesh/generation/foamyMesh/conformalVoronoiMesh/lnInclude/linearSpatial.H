@@ -1,1 +1,0 @@
-../cellSizeControlSurfaces/cellSizeFunction/linearSpatial/linearSpatial.H

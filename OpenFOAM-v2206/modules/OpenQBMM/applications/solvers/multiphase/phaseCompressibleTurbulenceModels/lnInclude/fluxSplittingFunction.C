@@ -1,1 +1,0 @@
-../kineticTheory/kineticTheoryModels/anisotropicGaussian/fluxSplittingFunctions/fluxSplittingFunction/fluxSplittingFunction.C

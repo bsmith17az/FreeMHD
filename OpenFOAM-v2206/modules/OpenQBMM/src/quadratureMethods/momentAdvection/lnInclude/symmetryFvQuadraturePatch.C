@@ -1,1 +1,0 @@
-../velocity/fvQuadraturePatch/symmetry/symmetryFvQuadraturePatch.C

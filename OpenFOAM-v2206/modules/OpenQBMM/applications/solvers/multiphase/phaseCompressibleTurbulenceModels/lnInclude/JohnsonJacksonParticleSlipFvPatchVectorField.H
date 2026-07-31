@@ -1,1 +1,0 @@
-../kineticTheory/derivedFvPatchFields/JohnsonJacksonParticleSlip/JohnsonJacksonParticleSlipFvPatchVectorField.H

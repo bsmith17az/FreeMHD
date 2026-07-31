@@ -1,1 +1,0 @@
-../weightsAndAbscissae/weightsAndAbscissae.C

@@ -1,1 +1,0 @@
-../write/adiosCoreWriteTemplates.C

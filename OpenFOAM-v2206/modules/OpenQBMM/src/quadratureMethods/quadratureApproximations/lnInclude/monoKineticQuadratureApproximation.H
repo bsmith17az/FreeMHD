@@ -1,1 +1,0 @@
-../monoKineticQuadratureApproximation/monoKineticQuadratureApproximation.H

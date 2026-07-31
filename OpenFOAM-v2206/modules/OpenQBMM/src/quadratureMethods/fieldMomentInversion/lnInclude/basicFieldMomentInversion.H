@@ -1,1 +1,0 @@
-../basicFieldMomentInversion/basicFieldMomentInversion.H

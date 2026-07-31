@@ -1,1 +1,0 @@
-../conformalVoronoiMesh/indexedVertex/indexedVertexEnum.C

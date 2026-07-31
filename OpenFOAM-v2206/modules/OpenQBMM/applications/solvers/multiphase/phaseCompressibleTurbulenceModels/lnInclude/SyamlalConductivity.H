@@ -1,1 +1,0 @@
-../kineticTheory/kineticTheorySubModels/conductivityModel/Syamlal/SyamlalConductivity.H

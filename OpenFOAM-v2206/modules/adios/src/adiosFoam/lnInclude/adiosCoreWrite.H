@@ -1,1 +1,0 @@
-../write/adiosCoreWrite.H

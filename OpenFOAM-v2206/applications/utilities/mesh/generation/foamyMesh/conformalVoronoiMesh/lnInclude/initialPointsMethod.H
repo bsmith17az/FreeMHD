@@ -1,1 +1,0 @@
-../initialPointsMethod/initialPointsMethod/initialPointsMethod.H

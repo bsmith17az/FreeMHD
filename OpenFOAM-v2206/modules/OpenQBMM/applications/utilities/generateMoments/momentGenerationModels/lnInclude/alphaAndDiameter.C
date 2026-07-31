@@ -1,1 +1,0 @@
-../alphaAndDiameter/alphaAndDiameter.C

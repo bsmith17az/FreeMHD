@@ -1,1 +1,0 @@
-../kineticTheory/kineticTheorySubModels/radialModel/SinclairJackson/SinclairJacksonRadial.C

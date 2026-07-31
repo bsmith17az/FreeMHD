@@ -1,1 +1,0 @@
-../initialPointsMethod/pointFile/pointFile.C

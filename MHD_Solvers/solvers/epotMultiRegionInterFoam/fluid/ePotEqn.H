@@ -47,7 +47,8 @@
 	if (JConservativeForm)
 	{
 		// interpolate B to faces
-		surfaceVectorField bf = fvc::interpolate(B);
+		tmp<surfaceVectorField> tbf = fvc::interpolate(B);
+		const surfaceVectorField& bf = tbf();
 		
 		//Lorentz force 
 		JxB=(-fvc::surfaceIntegrate(jn*bf^mesh.Cf()) + ( fvc::div( jn,B) ^ mesh.C() )); 

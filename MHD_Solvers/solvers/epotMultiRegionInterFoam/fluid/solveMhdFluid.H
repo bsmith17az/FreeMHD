@@ -1,7 +1,7 @@
 
 if (finalIter)
 {
-    mesh.data::add("finalIteration", true);
+    mesh.data().setFinalIteration(true);
 }
 
 
@@ -41,5 +41,5 @@ else
 
 if (finalIter)
 {
-    mesh.data::remove("finalIteration");
+    mesh.data().setFinalIteration(false);
 }
